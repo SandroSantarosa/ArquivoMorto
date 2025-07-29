@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArquivoMorto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e117b8696314ef7afa0daa96d73fefa103aff2c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArquivoMorto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArquivoMorto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

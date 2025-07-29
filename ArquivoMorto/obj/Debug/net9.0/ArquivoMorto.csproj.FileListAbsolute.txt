@@ -227,3 +227,8 @@ C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\bin\Debug\net9.0\runtimes\win\lib\
 C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\obj\Debug\net9.0\ArquivoMorto.csproj.AssemblyReference.cache
 C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\obj\Debug\net9.0\ArquivoM.417F45FF.Up2Date
+C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\obj\Debug\net9.0\ArquivoMorto.sourcelink.json
+C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\bin\Debug\net9.0\EntityFramework.SqlServer.dll
+C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\bin\Debug\net9.0\EntityFramework.dll
+C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\bin\Debug\net9.0\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Asp.Net\ArquivoMorto\ArquivoMorto\bin\Debug\net9.0\Microsoft.AspNet.Identity.EntityFramework.dll

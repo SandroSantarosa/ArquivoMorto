@@ -1,10 +1,57 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    Layout = null;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arquivo Morto</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ArquivoMorto.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <section class="vh-100 gradient-custom" style="background-color: #508bfc;">
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card bg-dark text-white" style="border-radius: 1rem;">
+                        <div class="card-body p-5 text-center">
+
+                            <div class="mb-md-5 mt-md-4 pb-5">
+
+                                <h2 class="fw-bold mb-2 text-uppercase">Arquivo Morto</h2>
+                                <p class="text-white-50 mb-5">Entre com seu usuário e senha de acesso</p>
+
+                                <form method="post" asp-page="Index">
+                                    <div class="form-outline form-white mb-4">
+                                        <input asp-for="@Model.Usuario" type="text" id="login" class="form-control form-control-lg" />
+                                        <label class="form-label" for="login">Usuário</label>
+                                    </div>
+
+                                    <div class="form-outline form-white mb-4">
+                                        <input asp-for="@Model.Senha" type="password" id="senha" class="form-control form-control-lg" />
+                                        <label class="form-label" for="senha">Senha</label>
+                                    </div>
+
+                                    <input class="btn btn-outline-light btn-lg px-5" type="submit" value="Acessar" />
+                                </form>
+                            </div>
+                            <div>
+                                <label class="mb-0">@Model.Msg</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

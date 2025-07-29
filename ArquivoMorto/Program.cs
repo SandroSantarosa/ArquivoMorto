@@ -10,6 +10,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>
     var connectionString = builder.Configuration.GetConnectionString("ConArquivoMorto");
     options.UseSqlServer(connectionString);
 });
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -30,5 +31,7 @@ app.UseAuthorization();
 app.MapStaticAssets();
 app.MapRazorPages()
    .WithStaticAssets();
+
+app.UseSession();
 
 app.Run();

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|c:\\projetos\\asp.net\\arquivomorto\\arquivomorto\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|solutionrelative:arquivomorto\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|c:\\projetos\\asp.net\\arquivomorto\\arquivomorto\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|solutionrelative:arquivomorto\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|c:\\projetos\\asp.net\\arquivomorto\\arquivomorto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|solutionrelative:arquivomorto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|c:\\projetos\\asp.net\\arquivomorto\\arquivomorto\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|solutionrelative:arquivomorto\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|c:\\projetos\\asp.net\\arquivomorto\\arquivomorto\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|solutionrelative:arquivomorto\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|c:\\projetos\\asp.net\\arquivomorto\\arquivomorto\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF21C014-07D0-4FD0-94B8-24AEB6A0BD4B}|ArquivoMorto\\ArquivoMorto.csproj|solutionrelative:arquivomorto\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ArquivoMorto\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Models\\Usuario.cs",
+              "RelativeToolTip": "ArquivoMorto\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:19:42.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ArquivoMorto\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ArquivoMorto\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:05:53.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ArquivoMorto\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\Index.cshtml",
               "RelativeToolTip": "ArquivoMorto\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T20:00:38.461Z",
+              "WhenOpened": "2025-07-29T01:05:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.cshtml.cs",
+              "DocumentMoniker": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\home.cshtml.cs",
+              "RelativeDocumentMoniker": "ArquivoMorto\\Pages\\home.cshtml.cs",
+              "ToolTip": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\home.cshtml.cs",
+              "RelativeToolTip": "ArquivoMorto\\Pages\\home.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:54:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\home.cshtml",
+              "RelativeDocumentMoniker": "ArquivoMorto\\Pages\\home.cshtml",
+              "ToolTip": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\home.cshtml",
+              "RelativeToolTip": "ArquivoMorto\\Pages\\home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:48:22.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ArquivoMorto\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\Asp.Net\\ArquivoMorto\\ArquivoMorto\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ArquivoMorto\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:34:50.613Z",
               "EditorCaption": ""
             }
           ]
